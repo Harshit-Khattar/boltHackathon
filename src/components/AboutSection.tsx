@@ -28,6 +28,7 @@ const AboutSection = () => {
         <h2 className="text-4xl md:text-5xl font-bold text-center mb-16 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-indigo-500">
           About the Event
         </h2>
+        <br></br>
 
         <div className="grid md:grid-cols-3 gap-12">
           <div className="reveal opacity-0 transition-all duration-700 delay-100">
@@ -60,8 +61,8 @@ const AboutSection = () => {
             </div>
           </div>
         </div>
-<br></br><br></br>
 <br></br>
+
 <br></br>
 
         {/* Additional Content */}
@@ -69,9 +70,13 @@ const AboutSection = () => {
           <div className="reveal opacity-0 transition-all duration-700 delay-400">
             <p className="text-gray-400 text-lg">
             Welcome to the World's Largest Hackathon—a groundbreaking virtual event that brings together innovators, developers, and creators from around the globe. With over $1 million in prizes, participants have the freedom to explore diverse themes, pushing the boundaries of technology and creativity. Our esteemed sponsors include Supabase, Netlify, Cloudflare, Sentry, Loops, and the Algorand Foundation, with more to be announced. A panel of distinguished judges, comprising industry leaders and visionaries, will evaluate the projects, ensuring a high standard of excellence. Join us in this unparalleled opportunity to collaborate, innovate, and showcase your talents on a global stage.
-
-
 </p>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
           </div>
         </div>
       </div>

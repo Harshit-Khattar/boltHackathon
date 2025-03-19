@@ -31,7 +31,7 @@ function evaluateCode() {
       title: "AI Innovation",
       amount: "$250,000",
       icon: <Brain className="w-5 h-5" />,
-      color: "purple",
+      color: "blue",
       description: "Recognizing groundbreaking applications of artificial intelligence and machine learning in solving real-world problems.",
       code: `// AI Innovation Prize
 class AIInnovation {
@@ -53,7 +53,7 @@ class AIInnovation {
       title: "System Design",
       amount: "$150,000",
       icon: <Cpu className="w-5 h-5" />,
-      color: "indigo",
+      color: "blue",
       description: "For projects that showcase exceptional system architecture, scalability, and technical excellence.",
       code: `// System Design Prize
 interface SystemArchitecture {
@@ -75,7 +75,7 @@ interface SystemArchitecture {
       title: "Tech Breakthrough",
       amount: "$100,000",
       icon: <Rocket className="w-5 h-5" />,
-      color: "cyan",
+      color: "blue",
       description: "Awarded to the most innovative and disruptive technological solution that pushes the boundaries of what's possible.",
       code: `// Tech Breakthrough Prize
 const breakthrough = {
